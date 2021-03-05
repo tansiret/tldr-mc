@@ -15,7 +15,7 @@
 
 `/kill @a[distance=..10]`
 
-- Kill all item entitiesi within 5 blocks:
+- Kill all item entities within 5 blocks:
 
 `/kill @e[type=item]`
 
