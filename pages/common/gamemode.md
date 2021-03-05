@@ -2,6 +2,7 @@
 
 > Set a player's game mode.
 > More information: <https://minecraft.gamepedia.com/Commands/gamemode>.
+> See also `defaultgamemode`.
 
 - Change game mode for the player:
 
