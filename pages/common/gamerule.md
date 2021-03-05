@@ -5,12 +5,12 @@
 
 - Change game rule with the given value:
 
-`gamerule {{rule_name}} {{true|false}}`
+`/gamerule {{rule_name}} {{true|false}}`
 
 - Stop the day-night cycle:
 
-`gamerule {{doDayNightCycle}} {{false}}`
+`/gamerule {{doDayNightCycle}} {{false}}`
 
 - Keep the items when a player dies:
 
-`gamerule {{keepInventory}} {{true}}`
+`/gamerule {{keepInventory}} {{true}}`

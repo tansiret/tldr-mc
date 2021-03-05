@@ -5,4 +5,4 @@
 
 - Change game mode of the world:
 
-`defaultgamemode {{mode}}`
+`/defaultgamemode {{mode}}`

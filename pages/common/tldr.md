@@ -1,20 +1,20 @@
 # tldr
 
-> Displays simple help pages for command-line tools, from the tldr-pages project.
-> More information: <https://tldr.sh>.
+> Displays simple help pages for Minecraft in-game and mod commands, from the tldr-mc fork of tldr-pages project.
+> More information: <https://mc.tldr.sh>.
 
 - Get typical usages of a command (hint: this is how you got here!):
 
-`tldr {{command}}`
+`/tldr {{command}}`
 
-- Show the tar tldr page for Linux:
+- Show the print tldr page for computercraft:
 
-`tldr -p {{linux}} {{tar}}`
+`/tldr -p {{linux}} {{tar}}`
 
-- Get help for a Git subcommand:
+- Get help for gamemode command:
 
-`tldr {{git-checkout}}`
+`/tldr {{gamemode}}`
 
-- Update local pages (if the client supports caching):
+- Update local pages:
 
-`tldr -u`
+`/tldr -u`
