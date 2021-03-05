@@ -7,9 +7,9 @@
 
 `/tldr {{command}}`
 
-- Show the print tldr page for computercraft:
+- Show the print tldr page for CraftOS:
 
-`/tldr -p {{linux}} {{tar}}`
+`/tldr -p {{craftos}} {{page}}`
 
 - Get help for gamemode command:
 
