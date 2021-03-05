@@ -1,9 +1,9 @@
 {
-  "description": "Simplified and community-driven man pages",
-  "author": "Romain Prieto",
+  "description": "Simplified and community-driven Minecraft command pages",
+  "author": "Tan Siret Akıncı",
   "license": "SEE LICENSE IN LICENSE.md",
-  "repository": "tldr-pages/tldr",
-  "homepage": "https://tldr.sh/",
+  "repository": "Yutyo/tldr-mc",
+  "homepage": "https://mc.tldr.sh/",
   "dependencies": {
     "glob": "7.1.3",
     "husky": "^2.2.0",
