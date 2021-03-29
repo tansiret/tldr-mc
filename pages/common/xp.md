@@ -1,12 +1,7 @@
 # xp
 
-> Alias of `experience`. Adds or removes player experience.
-> More information: <https://minecraft.gamepedia.com/Commands/xp>.
+> This command is an alias of `experience`.
 
-- Add/set specfied amount of experience to the player(s):
+- View documentation for the original command:
 
-`/xp add|set {{targets}} {{amount}} levels|points`
-
-- Query experience
-
-`/xp query {{targets}} levels|points`
+`/tldr xp`
