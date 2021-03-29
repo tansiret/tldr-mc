@@ -5,8 +5,8 @@
 
 - Add/set specifed amount of experience to the player(s):
 
-`/experience add|set {{targets}} {{amount}} levels|points`
+`/experience {{add|set}} {{targets}} {{amount}} {{levels|points}}`
 
-- Query experience
+- Query experience:
 
-`/experience query {{targets}} levels|points`
+`/experience query {{targets}} {{levels|points}}`
