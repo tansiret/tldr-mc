@@ -2,7 +2,7 @@
   "description": "Simplified and community-driven Minecraft command pages",
   "author": "Tan Siret Akıncı",
   "license": "SEE LICENSE IN LICENSE.md",
-  "repository": "Yutyo/tldr-mc",
+  "repository": "yutyo/tldr-mc",
   "homepage": "https://mc.tldr.sh/",
   "dependencies": {
     "glob": "7.1.3",
