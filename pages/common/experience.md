@@ -3,10 +3,10 @@
 > Adds or removes player experience.
 > More information: <https://minecraft.gamepedia.com/Commands/experience>.
 
-- Add/set specfied amount of experience to the player(s):
+- Add/set specifed amount of experience to the player(s):
 
-`/experience add|set {{targets}} {{amount}} levels|points`
+`/experience {{add|set}} {{targets}} {{amount}} {{levels|points}}`
 
-- Query experience
+- Query experience:
 
-`/experience query {{targets}} levels|points`
+`/experience query {{targets}} {{levels|points}}`
